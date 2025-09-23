@@ -53,10 +53,10 @@ function setup() {
   noStroke();
 
   resetGame();
+
     //play bgm
     soundbgm.play();
     soundbgm.loop();
-  
 }
 
 function draw() {
